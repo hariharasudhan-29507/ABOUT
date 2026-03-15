@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hariharasudhan</h1>
-<h3 align="center">Sophomore (CSE) · Mepco Schlenk Engineering College, Sivakasi, Tamil Nadu</h3>
+<h3 align="center">I'm a Sophomore (CSE) · Mepco Schlenk Engineering College, Sivakasi, Tamil Nadu</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hariharasudhan-29507&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="hariharasudhan-29507" />
