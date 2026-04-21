@@ -1,17 +1,31 @@
-<h1 align="center">Hi, I'm Hariharasudhan</h1>
-<h3 align="center">I'm a Sophomore (CSE) · Mepco Schlenk Engineering College, Sivakasi, Tamil Nadu</h3>
+<h1 align="center">Hariharasudhan</h1>
+<h3 align="center">Computer Science Engineering Student · Mepco Schlenk Engineering College</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariharasudhan-29507&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="hariharasudhan-29507" />
+  <img src="https://komarev.com/ghpvc/?username=hariharasudhan-29507&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### About Me
+### Professional Summary
 
-- Currently building a **Vehicle Rental and Booking System** (Java Swing + Oracle 21c)
-- Ask me about **Python, C++, Java, Oracle, MySQL**
-- Reach me at **sudanayyappan_bcs28@mepcoeng.ac.in**
+I am a Computer Science Engineering undergraduate focused on building practical software solutions with strong fundamentals in programming, database systems, and application development.
+
+I am currently developing a **Vehicle Rental and Booking System** using **Java Swing** and **Oracle 21c**, with emphasis on clean architecture, reliability, and user-friendly design.
+
+---
+
+### Core Skills
+
+- **Programming Languages:** Python, C++, Java  
+- **Databases:** Oracle, MySQL  
+- **Tools & Design:** Git, Figma, Adobe Photoshop
+
+---
+
+### Contact
+
+- **Email:** sudanayyappan_bcs28@mepcoeng.ac.in
 
 ---
 
@@ -53,17 +67,17 @@
 
 ---
 
-### GitHub Stats
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharasudhan-29507&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharasudhan-29507&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharasudhan-29507&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharasudhan-29507&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top languages" width="40%"/>
 </p>
 
 ---
 
-### Recent Repositories
+### Featured Repositories
 
 <p align="center">
   <a href="https://github.com/hariharasudhan-29507/MINI-PROJECT-2026">
