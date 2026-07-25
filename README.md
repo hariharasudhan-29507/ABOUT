@@ -3,7 +3,7 @@
 <h3 align="center">Student @ Mepco Schlenk Engineering College, Tirunelveli, TN, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=2000&color=39D353&center=true&vCenter=true&width=750&lines=%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22+%E2%80%93+Dynamic+Programming" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=39D353&center=true&vCenter=true&repeat=false&width=1100&lines=%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22+%E2%80%93+Dynamic+Programming" />
 </p>
 
 <p align="center">
@@ -83,27 +83,30 @@
 
 ---
 
-### 🤖 Agentic Tools I Use
+### 🤖 Agentic Tools & IDEs I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cursor-006D32?style=for-the-badge&logoColor=white" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" title="Cursor" width="40"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-006D32?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Devin-006D32?style=for-the-badge&logoColor=white" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/devin.svg" title="Devin" width="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kiro.svg" title="Kiro" width="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/goose.svg" title="Goose" width="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" title="Antigravity" width="40"/>
+  <img src="https://img.icons8.com/color/48/jetbrains.png" title="JetBrains" width="40"/>
   <img src="https://img.shields.io/badge/Zed-006D32?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kiro-006D32?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 🧪 Models I Experiment With
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LLaMA-39D353?style=for-the-badge&logo=meta&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mistral-39D353?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Phi--3-39D353?style=for-the-badge&logo=microsoft&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gemma-39D353?style=for-the-badge&logo=googlegemini&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kimi-39D353?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nemotron-39D353?style=for-the-badge&logo=nvidia&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hermes-39D353?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/ClawdBot-39D353?style=for-the-badge&logoColor=black" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta.svg" title="LLaMA (Meta)" width="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mistral.svg" title="Mistral" width="40"/>
+  <img src="https://img.shields.io/badge/Phi--3-006D32?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemma.svg" title="Gemma" width="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi.svg" title="Kimi" width="40"/>
+  <img src="https://img.shields.io/badge/Nemotron-006D32?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hermesagent.svg" title="Hermes" width="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openclaw.svg" title="ClawdBot" width="40"/>
 </p>
 
 ---
@@ -136,7 +139,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharasudhan-29507&bg_color=0d1117&color=1ee8eb&line=1ee8eb&point=62abfe&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharasudhan-29507&bg_color=0d1117&color=21e853&line=1de76a&point=21502f&area=true&hide_border=true" />
   </a>
 </p>
 
@@ -149,7 +152,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=2000&color=FFD700&center=true&vCenter=true&width=750&lines=You+run+out+of+energy+when+you+run+out+of+future" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=FFD700&center=true&vCenter=true&repeat=false&width=1100&lines=You+run+out+of+energy+when+you+run+out+of+future" />
 </p>
 
 <h3 align="center">Hariharasudhan</h3>
