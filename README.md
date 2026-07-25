@@ -86,12 +86,12 @@
 ### 🤖 Agentic Tools & IDEs I Use
 
 <p align="left">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" title="Cursor" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/devin.svg" title="Devin" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kiro.svg" title="Kiro" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/goose.svg" title="Goose" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" title="Antigravity" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
+  <img src="https://img.shields.io/badge/Devin-6E56CF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro-FF9900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goose-00D4AA?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white" />
   <img src="https://img.icons8.com/color/48/jetbrains.png" title="JetBrains" width="40"/>
   <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logoColor=white" />
 </p>
@@ -99,14 +99,14 @@
 ### 🧪 Models I Experiment With
 
 <p align="left">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta.svg" title="LLaMA (Meta)" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mistral.svg" title="Mistral" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
+  <img src="https://img.shields.io/badge/LLaMA_(Meta)-0668E1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Phi--3-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemma.svg" title="Gemma" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi.svg" title="Kimi" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
+  <img src="https://img.shields.io/badge/Gemma-34A853?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-7C3AED?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nemotron-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hermesagent.svg" title="Hermes" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openclaw.svg" title="ClawdBot" width="40" style="background-color:#ffffff;border-radius:8px;padding:4px;"/>
+  <img src="https://img.shields.io/badge/Hermes-DC2626?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClawdBot-D97706?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -127,8 +127,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharasudhan-29507&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharasudhan-29507&layout=compact&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" width="40%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hariharasudhan-29507&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hariharasudhan-29507&layout=compact&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" width="40%" />
 </p>
 
 <p align="center">
@@ -151,9 +151,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2f1a&height=120&section=footer" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2f1a&height=150&section=footer&width=1500" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=FFD700&center=true&vCenter=true&repeat=false&width=1100&lines=You+run+out+of+energy+when+you+run+out+of+future" />
