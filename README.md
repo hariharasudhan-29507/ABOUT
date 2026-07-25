@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Hariharasudhan 👋</h1>
 
-<h3 align="center">Student @ Mepco Schlenk Engineering College, Tirunelveli, TN, India</h3>
+<h3 align="center">Student @ Mepco Schlenk Engineering College, Sivakasi, TamilNadu, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=39D353&center=true&vCenter=true&repeat=false&width=1100&lines=%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22+%E2%80%93+Dynamic+Programming" />
@@ -92,7 +92,6 @@
   <img src="https://img.shields.io/badge/Kiro-FF9900?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Goose-00D4AA?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.icons8.com/color/48/jetbrains.png" title="JetBrains" width="40"/>
   <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logoColor=white" />
 </p>
 
