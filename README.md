@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariharasudhan-29507&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/hariharasudhan-29507?style=for-the-badge&color=39D353&logo=github&label=FOLLOWERS" />
 </p>
 
