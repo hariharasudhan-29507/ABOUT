@@ -125,12 +125,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hariharasudhan-29507&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hariharasudhan-29507&layout=compact&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharasudhan-29507&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&count_private=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharasudhan-29507&layout=compact&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&cache_seconds=86400" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharasudhan-29507&hide_border=true&background=0d1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=hariharasudhan-29507&hide_border=true&background=0d1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="49%" />
 </p>
 
 ### 📈 GitHub Activity Graph
