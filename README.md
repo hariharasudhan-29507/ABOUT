@@ -23,7 +23,6 @@
 - 🎓 Student & aspiring developer, currently exploring AI/ML, backend systems, and agentic AI workflows
 - 🌱 Google Developer Program member — badges: **Google Maps Platform Innovator**, **Google Cloud & NVIDIA Community**, **Gemini Enterprise Agent Ready**
 - 💬 Ask me about DSA, LeetCode grinding, or wiring up AI agents to actually ship things
-- ⚡ Fun fact: I let language models argue with each other until one of them writes working code
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Maps_Platform_Innovator-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
