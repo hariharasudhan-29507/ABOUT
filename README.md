@@ -2,6 +2,10 @@
 <h3 align="center">Undergraduate CSE @ MEPCO Schlenk Engineering College, Sivakasi, Tamil Nadu, India</h3>
 
 <p align="center">
+  <img src="./assets/about-card.svg" alt="About Hariharasudhan A" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=39D353&center=true&vCenter=true&repeat=false&width=1100&lines=%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22+%E2%80%93+Dynamic+Programming" />
 </p>
 
@@ -29,10 +33,6 @@ Full-stack developer and AI enthusiast building open-source projects, AI applica
   <img src="https://img.shields.io/badge/Google_Maps_Platform_Innovator-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud_%26_NVIDIA_Community-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_Enterprise_Agent_Ready-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="./assets/about-card.svg" alt="About Hariharasudhan A" />
 </p>
 
 ---
