@@ -1,0 +1,52 @@
+<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 15px; font-weight: 700; fill: #39D353; letter-spacing: 1px; }
+      .cmd { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13px; fill: #8b949e; }
+      .pinned { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 12px; fill: #8b949e; }
+      .repo { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 17px; font-weight: 700; fill: #f0f6fc; }
+      .desc { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; fill: #8b949e; }
+      .star { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 12px; fill: #8b949e; }
+      .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="378" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <text x="32" y="42" class="title">PROJECTS.LIST</text>
+  <text x="180" y="42" class="cmd">./projects.sh --all</text>
+  <text x="868" y="42" text-anchor="end" class="pinned">4 pinned</text>
+  <line x1="32" y1="56" x2="868" y2="56" stroke="#39D353" stroke-width="1" opacity="0.4"/>
+
+  <!-- RoadZen -->
+  <rect x="32" y="78" width="404" height="130" rx="10" class="card"/>
+  <circle cx="52" cy="100" r="4" fill="#f97316"/>
+  <text x="66" y="105" class="repo">RoadZen</text>
+  <text x="52" y="132" class="desc">AI road-safety platform: accident severity</text>
+  <text x="52" y="150" class="desc">prediction, SHAP explainability, live heatmap.</text>
+  <text x="52" y="188" class="star">★ 1  ·  Python · FastAPI</text>
+
+  <!-- Somnus -->
+  <rect x="464" y="78" width="404" height="130" rx="10" class="card"/>
+  <circle cx="484" cy="100" r="4" fill="#8b5cf6"/>
+  <text x="498" y="105" class="repo">Somnus</text>
+  <text x="484" y="132" class="desc">ECG-based smart sleep-stage monitor and</text>
+  <text x="484" y="150" class="desc">wake engine, ESP32 + ONNX-quantized ML.</text>
+  <text x="484" y="188" class="star">★ 2  ·  Python · ESP32</text>
+
+  <!-- Coral -->
+  <rect x="32" y="224" width="404" height="130" rx="10" class="card"/>
+  <circle cx="52" cy="246" r="4" fill="#14b8a6"/>
+  <text x="66" y="251" class="repo">Coral</text>
+  <text x="52" y="278" class="desc">Centralized app workspace, currently</text>
+  <text x="52" y="296" class="desc">in early development.</text>
+  <text x="52" y="334" class="star">★ 0  ·  In development</text>
+
+  <!-- AutoGit -->
+  <rect x="464" y="224" width="404" height="130" rx="10" class="card"/>
+  <circle cx="484" cy="246" r="4" fill="#39D353"/>
+  <text x="498" y="251" class="repo">AutoGit</text>
+  <text x="484" y="278" class="desc">Calm, GitHub-inspired workspace for repos,</text>
+  <text x="484" y="296" class="desc">local changes, and project health.</text>
+  <text x="484" y="334" class="star">★ 2  ·  TypeScript · Vite</text>
+</svg>
