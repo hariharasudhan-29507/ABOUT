@@ -32,10 +32,7 @@ Full-stack developer and AI enthusiast building open-source projects, AI applica
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=hariharasudhan-29507&theme=zen&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=hariharasudhan-29507&theme=zen" alt="hariharasudhan-29507 about section" />
-  </picture>
+  <img src="./assets/about-card.svg" alt="About Hariharasudhan A" />
 </p>
 
 ---
@@ -137,10 +134,7 @@ Full-stack developer and AI enthusiast building open-source projects, AI applica
 <p><a href="https://github.com/hariharasudhan-29507/AUTOGIT"><img src="https://img.shields.io/badge/AUTOGIT-View_Repo-39D353?style=flat-square&logo=github&logoColor=black" /></a></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=hariharasudhan-29507&theme=zen&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=hariharasudhan-29507&theme=zen" alt="hariharasudhan-29507 projects section" />
-  </picture>
+  <img src="./assets/projects-card.svg" alt="Pinned projects: RoadZen, Somnus, Coral, AutoGit" />
 </p>
 
 ---
