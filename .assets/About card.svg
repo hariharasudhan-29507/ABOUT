@@ -1,0 +1,20 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .label { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13px; letter-spacing: 3px; fill: #8b949e; }
+      .name { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 34px; font-weight: 700; fill: #f0f6fc; }
+      .tag { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 16px; fill: #39D353; }
+      .cursor { fill: #39D353; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="178" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <text x="40" y="45" class="label">ABOUT</text>
+  <text x="40" y="95" class="name">Hariharasudhan A</text>
+
+  <text x="40" y="135" class="tag">&gt; Free to Contribute</text>
+  <rect x="230" y="123" width="10" height="16" class="cursor">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
