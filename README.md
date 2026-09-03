@@ -144,7 +144,7 @@ Full-stack developer and AI enthusiast building open-source projects, AI applica
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=hariharasudhan-29507&theme=zen&mode=light" />
-    <img src="https://www.gitskins.com/api/section/highlights?username=hariharasudhan-29507&theme=zen" alt="hariharasudhan-29507 highlights section" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=hariharasudhan-29507&theme=zen&mode=dark" alt="hariharasudhan-29507 highlights section" />
   </picture>
 </p>
 
