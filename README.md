@@ -163,7 +163,7 @@ Full-stack developer and AI enthusiast building open-source projects, AI applica
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharasudhan-29507&bg_color=0d1117&color=21e853&line=1de76a&point=21502f&area=true&hide_border=true" />
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=hariharasudhan-29507&bg_color=0d1117&color=21e853&line=1de76a&point=21502f&area=true&hide_border=true" />
   </a>
 </p>
 
