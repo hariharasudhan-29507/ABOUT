@@ -179,9 +179,8 @@ Full-stack developer and AI enthusiast building open-source projects, AI applica
 ## LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Hariharasudhan295?theme=dark&font=Baloo%202&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Hariharasudhan295?theme=dark&font=Baloo%202&ext=heatmap&cache=0" />
 </p>
-
 ---
 
 ## Connect
